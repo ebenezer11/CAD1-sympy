@@ -1,0 +1,157 @@
+[33mcommit 53bc684845e5e9fdd756f6cafee52a78ef242801[m
+Author: Your Name <you@example.com>
+Date:   Fri Nov 10 13:21:01 2017 +0100
+
+    update
+
+[33mcommit 9b8495176b82db50d4998e33a5c5fbc864649961[m
+Author: Your Name <you@example.com>
+Date:   Wed Nov 8 13:47:06 2017 +0100
+
+    update to labwork
+
+[33mcommit 2be7a228a44f7c870baa27bcdf9e5e59baa96313[m
+Merge: 6a3bf2d 11314b1
+Author: Your Name <you@example.com>
+Date:   Tue Nov 7 13:55:03 2017 +0100
+
+    Merge branch 'master' of https://github.com/ebenezer11/CAD1-sympy
+
+[33mcommit 6a3bf2d20821fcb0e550694fec8cb9086d07ace6[m
+Author: Your Name <you@example.com>
+Date:   Tue Nov 7 13:51:50 2017 +0100
+
+    update
+
+[33mcommit 4cada9ca4d2dcc1075207f3c82eedd396edde133[m
+Author: Your Name <you@example.com>
+Date:   Tue Nov 7 09:48:56 2017 +0100
+
+    update
+
+[33mcommit de93431bb9a81cfde704fd1b48bec0a4bc27abab[m
+Author: Your Name <you@example.com>
+Date:   Mon Nov 6 15:51:19 2017 +0100
+
+    lab 4
+
+[33mcommit 414e2d8c44a200ace153e5fdad9ac506e7c2ac7c[m
+Author: Your Name <you@example.com>
+Date:   Thu Oct 26 12:53:47 2017 +0200
+
+    lab3 update
+
+[33mcommit 45143fa78032649ab51dae4079c36fa42599776d[m
+Author: Your Name <you@example.com>
+Date:   Thu Oct 26 10:07:43 2017 +0200
+
+    lab3 update
+
+[33mcommit ab9c7d9258903ec113b24edc1dfb35f89d349544[m
+Author: Your Name <you@example.com>
+Date:   Tue Oct 17 12:00:59 2017 +0200
+
+    lab 1 and 2 commit
+
+[33mcommit 11314b14ccbd9501aa799503768507a4d498526c[m
+Author: Your Name <you@example.com>
+Date:   Tue Nov 7 09:48:56 2017 +0100
+
+    update
+
+[33mcommit 27d6310f7c9f4afc5399a09839d0c4c12b7b09f1[m
+Author: Your Name <you@example.com>
+Date:   Mon Nov 6 15:51:19 2017 +0100
+
+    lab 4
+
+[33mcommit a3951ae2e4c292fbc9a7bee48399d984646e18f0[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Mon Nov 6 13:37:22 2017 +0100
+
+    adding lab4 solutions
+
+[33mcommit 08aff76fd4e82a3c0400e8cb92fbd6ea6aade1e4[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Mon Nov 6 13:14:23 2017 +0100
+
+    adding lab5
+
+[33mcommit 94e19cbac913c04150ce627da9027207693a17c1[m
+Merge: 7f4ff95 842c134
+Author: Your Name <you@example.com>
+Date:   Thu Oct 26 13:01:44 2017 +0200
+
+    Merge branch 'master' of https://github.com/ebenezer11/CAD1-sympy
+
+[33mcommit 7f4ff9595589a7c05e09ea7bd65c642da1367d36[m
+Author: Your Name <you@example.com>
+Date:   Thu Oct 26 12:53:47 2017 +0200
+
+    lab3 update
+
+[33mcommit a046755b336225f835cccb5049e292fd191561d4[m
+Author: Your Name <you@example.com>
+Date:   Thu Oct 26 10:07:43 2017 +0200
+
+    lab3 update
+
+[33mcommit 66079296823ff25f301d498eb70a26940778af58[m
+Author: Your Name <you@example.com>
+Date:   Tue Oct 17 12:00:59 2017 +0200
+
+    lab 1 and 2 commit
+
+[33mcommit 842c13460367681d179be646cabb644e053e2e15[m
+Author: Your Name <you@example.com>
+Date:   Thu Oct 26 10:07:43 2017 +0200
+
+    lab3 update
+
+[33mcommit 71f485c618c00f3e622cab2dbf19a42ce117f90d[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Wed Oct 25 22:30:16 2017 +0200
+
+    update the readme, add lab4 and lab3 solutions
+
+[33mcommit 4dc758b6661b2ab3eeadab5afb7e53b08be9e449[m
+Author: Your Name <you@example.com>
+Date:   Tue Oct 17 12:00:59 2017 +0200
+
+    lab 1 and 2 commit
+
+[33mcommit 471fea7e742ffab7d97d56732d69249b6a26a4ab[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Mon Oct 16 21:55:24 2017 +0200
+
+    ading the solution of lab2
+
+[33mcommit 1ee669492a296bf6f23ad2a6e6bfb1af8b52daaa[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Thu Oct 5 01:44:42 2017 +0200
+
+    adding README.md
+
+[33mcommit 7870953931487dcf49818f921a7e8301c4fb4fed[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Thu Oct 5 01:32:14 2017 +0200
+
+    adding solution of lab1
+
+[33mcommit ae00060238bf7cda0b94c8844c40577eb84a943a[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Thu Oct 5 01:31:05 2017 +0200
+
+    adding lab1 solutions, lab2 and lab3
+
+[33mcommit c1a36dabdb0730ab8326437c2d4c52112c0cfa89[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Mon Sep 18 02:17:54 2017 +0200
+
+    small change in introduction
+
+[33mcommit 34982392debd5d42b362ecfe4a6c840640559ec0[m
+Author: mojdeh <mojdeh.rastgoo@gmail.com>
+Date:   Mon Sep 18 02:07:55 2017 +0200
+
+    initial commit
